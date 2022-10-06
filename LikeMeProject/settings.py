@@ -29,7 +29,8 @@ SECRET_KEY = my_setting.SECRET_KEY
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    ".ap-northeast-2.compute.amazonaws.com"
+    ".ap-northeast-2.compute.amazonaws.com",
+    ".likeme-api.duckdns.org"
 ]
 
 # Application definition
